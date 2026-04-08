@@ -25,3 +25,8 @@ secrets.json
 
 .DS_Store
 Thumbs.db
+
+*.db
+
+config1.txt
+config2.txt
