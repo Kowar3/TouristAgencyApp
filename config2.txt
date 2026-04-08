@@ -1,0 +1,2 @@
+﻿Moja Turistička Agencija 2
+Server=localhost;Database=turisticka_agencija;Uid=root;Pwd=;Port=3306;
